@@ -1,0 +1,13 @@
+c:\users\lucas\documents\visual studio 2015\Projects\Lista_3\Lista_3\bin\Debug\Lista_3.exe.config
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\Lista_3\Lista_3\bin\Debug\Lista_3.exe
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\Lista_3\Lista_3\bin\Debug\Lista_3.pdb
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\Lista_3\Lista_3\obj\Debug\Lista_3.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\Lista_3\Lista_3\obj\Debug\Lista_3.exe
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\Lista_3\Lista_3\obj\Debug\Lista_3.pdb
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\Lista_3\Lista_3\bin\Debug\Lista_3.exe.config
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\Lista_3\Lista_3\bin\Debug\Lista_3.exe
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\Lista_3\Lista_3\bin\Debug\Lista_3.pdb
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\Lista_3\Lista_3\obj\Debug\Lista_3.csprojAssemblyReference.cache
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\Lista_3\Lista_3\obj\Debug\Lista_3.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\Lista_3\Lista_3\obj\Debug\Lista_3.exe
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\Lista_3\Lista_3\obj\Debug\Lista_3.pdb
