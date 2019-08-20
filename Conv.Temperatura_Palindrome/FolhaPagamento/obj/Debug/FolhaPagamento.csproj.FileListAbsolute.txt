@@ -1,0 +1,12 @@
+c:\users\lucas\documents\visual studio 2015\Projects\1-ListaExercicios\FolhaPagamento\bin\Debug\FolhaPagamento.exe.config
+c:\users\lucas\documents\visual studio 2015\Projects\1-ListaExercicios\FolhaPagamento\bin\Debug\FolhaPagamento.exe
+c:\users\lucas\documents\visual studio 2015\Projects\1-ListaExercicios\FolhaPagamento\bin\Debug\FolhaPagamento.pdb
+c:\users\lucas\documents\visual studio 2015\Projects\1-ListaExercicios\FolhaPagamento\obj\Debug\FolhaPagamento.csprojResolveAssemblyReference.cache
+c:\users\lucas\documents\visual studio 2015\Projects\1-ListaExercicios\FolhaPagamento\obj\Debug\FolhaPagamento.exe
+c:\users\lucas\documents\visual studio 2015\Projects\1-ListaExercicios\FolhaPagamento\obj\Debug\FolhaPagamento.pdb
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\1-ListaExercicios\FolhaPagamento\bin\Debug\FolhaPagamento.exe.config
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\1-ListaExercicios\FolhaPagamento\bin\Debug\FolhaPagamento.exe
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\1-ListaExercicios\FolhaPagamento\bin\Debug\FolhaPagamento.pdb
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\1-ListaExercicios\FolhaPagamento\obj\Debug\FolhaPagamento.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\1-ListaExercicios\FolhaPagamento\obj\Debug\FolhaPagamento.exe
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\1-ListaExercicios\FolhaPagamento\obj\Debug\FolhaPagamento.pdb

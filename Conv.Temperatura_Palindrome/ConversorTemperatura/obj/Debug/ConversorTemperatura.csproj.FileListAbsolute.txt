@@ -1,0 +1,13 @@
+c:\users\lucas\documents\visual studio 2015\Projects\1-ListaExercicios\ConversorTemperatura\bin\Debug\ConversorTemperatura.exe.config
+c:\users\lucas\documents\visual studio 2015\Projects\1-ListaExercicios\ConversorTemperatura\bin\Debug\ConversorTemperatura.exe
+c:\users\lucas\documents\visual studio 2015\Projects\1-ListaExercicios\ConversorTemperatura\bin\Debug\ConversorTemperatura.pdb
+c:\users\lucas\documents\visual studio 2015\Projects\1-ListaExercicios\ConversorTemperatura\obj\Debug\ConversorTemperatura.exe
+c:\users\lucas\documents\visual studio 2015\Projects\1-ListaExercicios\ConversorTemperatura\obj\Debug\ConversorTemperatura.pdb
+c:\users\lucas\documents\visual studio 2015\Projects\1-ListaExercicios\ConversorTemperatura\obj\Debug\ConversorTemperatura.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\1-ListaExercicios\ConversorTemperatura\bin\Debug\ConversorTemperatura.exe.config
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\1-ListaExercicios\ConversorTemperatura\bin\Debug\ConversorTemperatura.exe
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\1-ListaExercicios\ConversorTemperatura\bin\Debug\ConversorTemperatura.pdb
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\1-ListaExercicios\ConversorTemperatura\obj\Debug\ConversorTemperatura.csprojAssemblyReference.cache
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\1-ListaExercicios\ConversorTemperatura\obj\Debug\ConversorTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\1-ListaExercicios\ConversorTemperatura\obj\Debug\ConversorTemperatura.exe
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\1-ListaExercicios\ConversorTemperatura\obj\Debug\ConversorTemperatura.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "1-ListaExercicios\Palindrome.csproj", "{7C756165-BD54-4543-A76B-D9D41A8C7774}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversorTemperatura", "ConversorTemperatura\ConversorTemperatura.csproj", "{41E68E34-3360-46E1-80B2-014275558F36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FolhaPagamento", "FolhaPagamento\FolhaPagamento.csproj", "{326E2D21-FC18-4A07-9D0C-6287A012FBC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C756165-BD54-4543-A76B-D9D41A8C7774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C756165-BD54-4543-A76B-D9D41A8C7774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C756165-BD54-4543-A76B-D9D41A8C7774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C756165-BD54-4543-A76B-D9D41A8C7774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41E68E34-3360-46E1-80B2-014275558F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E68E34-3360-46E1-80B2-014275558F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E68E34-3360-46E1-80B2-014275558F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E68E34-3360-46E1-80B2-014275558F36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{326E2D21-FC18-4A07-9D0C-6287A012FBC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{326E2D21-FC18-4A07-9D0C-6287A012FBC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{326E2D21-FC18-4A07-9D0C-6287A012FBC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{326E2D21-FC18-4A07-9D0C-6287A012FBC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

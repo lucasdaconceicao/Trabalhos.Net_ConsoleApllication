@@ -1,0 +1,13 @@
+c:\users\lucas\documents\visual studio 2015\Projects\Lista_2\Lista_2\bin\Debug\Lista_2.exe.config
+c:\users\lucas\documents\visual studio 2015\Projects\Lista_2\Lista_2\obj\Debug\Lista_2.csprojResolveAssemblyReference.cache
+c:\users\lucas\documents\visual studio 2015\Projects\Lista_2\Lista_2\bin\Debug\Lista_2.exe
+c:\users\lucas\documents\visual studio 2015\Projects\Lista_2\Lista_2\bin\Debug\Lista_2.pdb
+c:\users\lucas\documents\visual studio 2015\Projects\Lista_2\Lista_2\obj\Debug\Lista_2.exe
+c:\users\lucas\documents\visual studio 2015\Projects\Lista_2\Lista_2\obj\Debug\Lista_2.pdb
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\Lista_2\Lista_2\bin\Debug\Lista_2.exe.config
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\Lista_2\Lista_2\bin\Debug\Lista_2.exe
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\Lista_2\Lista_2\bin\Debug\Lista_2.pdb
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\Lista_2\Lista_2\obj\Debug\Lista_2.csprojAssemblyReference.cache
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\Lista_2\Lista_2\obj\Debug\Lista_2.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\Lista_2\Lista_2\obj\Debug\Lista_2.exe
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\Lista_2\Lista_2\obj\Debug\Lista_2.pdb

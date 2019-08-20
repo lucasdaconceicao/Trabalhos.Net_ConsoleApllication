@@ -1,0 +1,13 @@
+c:\users\lucas\documents\visual studio 2015\Projects\1-ListaExercicios\1-ListaExercicios\bin\Debug\1-ListaExercicios.exe.config
+c:\users\lucas\documents\visual studio 2015\Projects\1-ListaExercicios\1-ListaExercicios\bin\Debug\1-ListaExercicios.exe
+c:\users\lucas\documents\visual studio 2015\Projects\1-ListaExercicios\1-ListaExercicios\bin\Debug\1-ListaExercicios.pdb
+c:\users\lucas\documents\visual studio 2015\Projects\1-ListaExercicios\1-ListaExercicios\obj\Debug\Palindrome.csprojResolveAssemblyReference.cache
+c:\users\lucas\documents\visual studio 2015\Projects\1-ListaExercicios\1-ListaExercicios\obj\Debug\1-ListaExercicios.exe
+c:\users\lucas\documents\visual studio 2015\Projects\1-ListaExercicios\1-ListaExercicios\obj\Debug\1-ListaExercicios.pdb
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\1-ListaExercicios\1-ListaExercicios\bin\Debug\1-ListaExercicios.exe.config
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\1-ListaExercicios\1-ListaExercicios\bin\Debug\1-ListaExercicios.exe
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\1-ListaExercicios\1-ListaExercicios\bin\Debug\1-ListaExercicios.pdb
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\1-ListaExercicios\1-ListaExercicios\obj\Debug\Palindrome.csprojAssemblyReference.cache
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\1-ListaExercicios\1-ListaExercicios\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\1-ListaExercicios\1-ListaExercicios\obj\Debug\1-ListaExercicios.exe
+C:\Users\lucas\Downloads\Trabahos.Net-master\Console Aplication\1-ListaExercicios\1-ListaExercicios\obj\Debug\1-ListaExercicios.pdb

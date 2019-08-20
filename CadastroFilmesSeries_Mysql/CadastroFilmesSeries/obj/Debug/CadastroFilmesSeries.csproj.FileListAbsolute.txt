@@ -1,0 +1,11 @@
+c:\users\lucass\documents\visual studio 2015\Projects\CadastroFilmesSeries\CadastroFilmesSeries\bin\Debug\CadastroFilmesSeries.exe.config
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\CadastroFilmesSeries\CadastroFilmesSeries\bin\Debug\CadastroFilmesSeries.exe
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\CadastroFilmesSeries\CadastroFilmesSeries\bin\Debug\CadastroFilmesSeries.pdb
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\CadastroFilmesSeries\CadastroFilmesSeries\obj\Debug\CadastroFilmesSeries.csprojResolveAssemblyReference.cache
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\CadastroFilmesSeries\CadastroFilmesSeries\obj\Debug\CadastroFilmesSeries.exe
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\CadastroFilmesSeries\CadastroFilmesSeries\obj\Debug\CadastroFilmesSeries.pdb
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\CadastroFilmesSeries\CadastroFilmesSeries\bin\Debug\MySql.Data.dll
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\CadastroFilmesSeries\CadastroFilmesSeries\bin\Debug\MySql.Data.xml
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Console Aplication\CadastroFilmesSeries\CadastroFilmesSeries\bin\Debug\CadastroFilmesSeries.exe.config
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Console Aplication\CadastroFilmesSeries\CadastroFilmesSeries\obj\Debug\CadastroFilmesSeries.exe
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Console Aplication\CadastroFilmesSeries\CadastroFilmesSeries\obj\Debug\CadastroFilmesSeries.pdb
